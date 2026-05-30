@@ -18,4 +18,5 @@ The application offers dedicated login access for users and workers, ensuring se
   - View user requests
   - Prioritized task list
   - Accept and respond to requests
+  - Collect waste
   - Update collection status
